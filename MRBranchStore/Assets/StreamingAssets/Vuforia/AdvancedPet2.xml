@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Pet2" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Pet2s_assembly" assemblyId="e6ed681622da4abcb4fcf2df23c32b6d">
+<Part name="Pet2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0170007 0.686919 5.48413" rotation="AD: 0.9970515907083682 0.21724935642608792 -0.42970425441532745 228.957" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.8.5">
+<ModelTarget name="Pet2" targetId="1df90582a03a430198f7702de6aff773" version="11.1" toolVersion="9.8.5" bbox="-0.789423 -0.153324 -0.717727 0.648334 2.690676 0.804236" previewImage="1df90582a03a430198f7702de6aff773_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Pet2s_assembly" assemblyId="e6ed681622da4abcb4fcf2df23c32b6d">
+<Part name="Pet2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0170007 0.686919 5.48413" rotation="AD: 0.9970515907083682 0.21724935642608792 -0.42970425441532745 228.957" image="Pet2_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
