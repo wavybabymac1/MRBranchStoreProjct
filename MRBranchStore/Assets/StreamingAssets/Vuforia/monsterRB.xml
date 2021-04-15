@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="monsterRB" motionHint="adaptive" trackingMode="scan"/>
+
+</Tracking>
+
+<Assembly name="monsterRBs_assembly" assemblyId="b77fca914d8a4d4e89f6543f2e3c5990">
+<Part name="monsterRB" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.119519 0.672515 5.68031" rotation="AD: 0.997369602065956 0.21338896431658674 -0.4127506825959443 230.219" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

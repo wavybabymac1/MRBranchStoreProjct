@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.8.5">
+<ModelTarget name="monsterRB" targetId="369af5d3bd1b4dd4ac3013754d12b3c3" version="11.1" toolVersion="9.8.5" bbox="-0.831752 -0.507044 -0.920887 0.752816 2.653234 0.661657" previewImage="369af5d3bd1b4dd4ac3013754d12b3c3_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="monsterRBs_assembly" assemblyId="b77fca914d8a4d4e89f6543f2e3c5990">
+<Part name="monsterRB" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.119519 0.672515 5.68031" rotation="AD: 0.997369602065956 0.21338896431658674 -0.4127506825959443 230.219" image="monsterRB_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
