@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SampleResources/Scenes/2-VuMarks.unity
     guid: 053b17c0c4bdd4b43b09dcaabdb23240
+  - enabled: 0
+    path: Assets/Scenes/HelloCube.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 38e725a47e7fb42bebecdbe42c5cb7c8,
       type: 2}
